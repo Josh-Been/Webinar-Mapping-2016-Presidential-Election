@@ -1,3 +1,5 @@
+[ReadMe URL](https://josh-been.github.io/Webinar-Mapping-2016-Presidential-Election/)
+
 ### Webinar Description
 
 **Date/Time**: January 12, 11am
@@ -30,3 +32,7 @@
 *Data from U.S. Census*
 
 3. [Census American Community Survey](https://data.census.gov/cedsci/) - This Census data included in the *zip archive* has been pre-processed. Data was downloaded for Census Block Groups and approximated to VTD polygons using an area-weighted spatial join approach using ArcGIS.
+
+### Webinar Steps
+
+1. 
