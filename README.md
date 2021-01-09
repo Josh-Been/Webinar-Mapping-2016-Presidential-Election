@@ -1,3 +1,5 @@
+<a href="https://www.tdl.org/event/tdl-gisig-webinar-hands-on-tableau-desktop-mapping-the-2016-presidential-election/"><img src="https://www.tdl.org/wp-content/uploads/2020/09/GIS-webinars_V2-768x432.png" width=500></a>
+
 [ReadMe URL](https://josh-been.github.io/Webinar-Mapping-2016-Presidential-Election/)
 
 ### Webinar Description
