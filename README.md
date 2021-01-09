@@ -10,12 +10,13 @@
 
 **Participation**: Participants can follow along or sit back and watch. To follow along, please install Tableau Desktop prior to the webinar starting. * Either Tableau Desktop Public (freely available) or Tableau Desktop Professional (fee-based, free to students and teachers) will work perfectly for this webinar.
 
-Tableau Desktop Public: [https://public.tableau.com/en-us/s/](https://public.tableau.com/en-us/s/)
-
-Tableau Desktop Professional (student license): https://www.tableau.com/academic/students
-    Tableau Desktop Professional (teacher license): https://www.tableau.com/academic/teaching
-
 **Presenters**:
+ - Joshua Been, Baylor University https://www.baylor.edu/library/index.php?id=969726
+ - Kristina Claunch, Sam Houston State University https://shsulibraryguides.org/prf.php?account_id=249033
 
-    Joshua Been, Baylor University https://www.baylor.edu/library/index.php?id=969726
-    Kristina Claunch, Sam Houston State University https://shsulibraryguides.org/prf.php?account_id=249033
+## Tableau Software
+
+**Tableau Desktop Software Options**
+1. Tableau Desktop Public: https://public.tableau.com/en-us/s/
+2. Tableau Desktop Professional (student license): https://www.tableau.com/academic/students
+3. Tableau Desktop Professional (teacher license): https://www.tableau.com/academic/teaching
