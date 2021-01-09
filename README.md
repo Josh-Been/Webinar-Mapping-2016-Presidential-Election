@@ -52,22 +52,23 @@
  - Select County under Dimensions
  - Hold CTRL and select Income under Measures
  - Under Show Me on the right, click TreeMap
- - This is not correct, is it? Let's correct the aggregation.
-      - Click the Undo button at the top left of the screen
-      - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
-      - Now recreate Treemap
-3. Change Visualizations
- - Packed Bubbles
-   - Click the Packed Bubbles button on the Show Me tab
-   - Drag Income under Measures to the Color box
-   - Click the Color box and then click Edit Colors to adjust the color scheme.
- - County Map (*finally, right?*)
-    - Change visualization to Map
-    - Click the Map button on the Show Me tab
-    - Click the 99 Unknown tag that appears on the bottom right of the map
-    - Under State/Province, select Fixed and then Texas.
-    - OK
- - To change the map colors, drag another field to the Color Box
+3. This is not correct, is it? Let's correct the aggregation.
+ - Click the Undo button at the top left of the screen
+ - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
+ - Now recreate Treemap
+3. Change Visualization to Packed Bubbles
+ - Click the Packed Bubbles button on the Show Me tab
+ - Drag Income under Measures to the Color box
+ - Click the Color box and then click Edit Colors to adjust the color scheme.
+4. Change Visualization to Hilight Table
+ - Steps Here
+5. Change Visualization to County Map (*finally, right?*)
+ - Change visualization to Map
+ - Click the Map button on the Show Me tab
+ - Click the 99 Unknown tag that appears on the bottom right of the map
+ - Under State/Province, select Fixed and then Texas.
+ - OK
+6. To change the map colors, drag another field to the Color Box
 
 ## Step #3: Integrate Election Data
 
