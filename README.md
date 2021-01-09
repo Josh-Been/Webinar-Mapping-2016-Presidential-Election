@@ -84,4 +84,10 @@
 ## Step #7: Load VTD Shapefile
 1. Click Data Source on the bottom left of the screen
 2. Click the blue Add button and click Spatial file
-3. 
+3. Browse and select the VTDs.shp shapefile
+4. Drag *VTDs* to the window next to *demographics*.
+5. The default relationship is perfect
+6. Back to Sheet 1
+
+## Step #8: Map Data Using VTD Boundaries
+1. 
