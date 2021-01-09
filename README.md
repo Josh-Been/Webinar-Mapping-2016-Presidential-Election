@@ -1,6 +1,6 @@
-# Webinar: Hands-On Tableau Desktop: Mapping the 2016 Presidential Election
+## Webinar: Hands-On Tableau Desktop: Mapping the 2016 Presidential Election
 
-## Webinar Description
+### Webinar Description
 
 **Date/Time**: January 12, 11am
 
@@ -14,7 +14,7 @@
  - [Joshua Been, Baylor University](https://www.baylor.edu/library/index.php?id=969726)
  - [Kristina Claunch, Sam Houston State University](https://shsulibraryguides.org/prf.php?account_id=249033)
 
-## Tableau Software
+### Tableau Software
 
 **Tableau Desktop Software Options**
 1. [Tableau Desktop Public](https://public.tableau.com/en-us/s/)
