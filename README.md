@@ -91,7 +91,7 @@
 
 ## Step #4: Integrate VTD Boundaries
 
-1. Load VTds.shp Shapefile
+1. Load VTDs.shp Shapefile
  - Click Data Source on the bottom left of the screen
  - Click the blue Add button and click Spatial file
  - Browse and select the VTDs.shp shapefile
@@ -99,4 +99,6 @@
  - The default relationship is perfect
  - Back to Sheet 1
 2. Map Data Using VTD Boundaries
- - sfdsdfsd
+ - In the Table of Contents on the left, double-click *Geometry* under VTDs.
+ - Drag CNTYVTD to the Detail Box
+ - Show % Votes for Clinton to the Color Box
