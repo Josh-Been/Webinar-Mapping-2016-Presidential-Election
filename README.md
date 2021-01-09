@@ -56,7 +56,7 @@
     - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
     - Now recreate Treemap
 
-## Step $4: Change Visualizations
+## Step #4: Change Visualizations
 1. Packed Bubbles
     - Click the Packed Bubbles button on the Show Me tab
     - Drag Income under Measures to the Color box
