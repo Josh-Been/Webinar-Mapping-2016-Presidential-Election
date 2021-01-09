@@ -10,8 +10,9 @@
 
 **Participation**: Participants can follow along or sit back and watch. To follow along, please install Tableau Desktop prior to the webinar starting. * Either Tableau Desktop Public (freely available) or Tableau Desktop Professional (fee-based, free to students and teachers) will work perfectly for this webinar.
 
-    Tableau Desktop Public: [https://public.tableau.com/en-us/s/](https://public.tableau.com/en-us/s/)
-    Tableau Desktop Professional (student license): https://www.tableau.com/academic/students
+Tableau Desktop Public: [https://public.tableau.com/en-us/s/](https://public.tableau.com/en-us/s/)
+
+Tableau Desktop Professional (student license): https://www.tableau.com/academic/students
     Tableau Desktop Professional (teacher license): https://www.tableau.com/academic/teaching
 
 **Presenters**:
