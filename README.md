@@ -48,4 +48,25 @@
 3. Click the orange Sheet 1 button
 
 ## Step #3: Create Treemap Visualization Showing Income by County
+1.	Select County under Dimensions
+2.	Hold CTRL and select Income under Measures
+3.	Under Show Me on the right, click TreeMap
+4. This is not correct, is it? Let's correct the aggregation.
+    - Click the Undo button at the top left of the screen
+    - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
+    - Now recreate Treemap
+
+## Step $4: Change Visualizations
+1. Packed Bubbles
+    - Click the Packed Bubbles button on the Show Me tab
+    - Drag Income under Measures to the Color box
+    - Click the Color box and then click Edit Colors to adjust the color scheme.
+2. County Map (*finally, right?*)
+    - Change visualization to Map
+    - Click the Map button on the Show Me tab
+    - Click the 99 Unknown tag that appears on the bottom right of the map
+    - Under State/Province, select Fixed and then Texas.
+    - OK
+
+## Step #5: 
 1. 
