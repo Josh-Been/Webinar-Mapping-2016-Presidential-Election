@@ -68,5 +68,20 @@
     - Under State/Province, select Fixed and then Texas.
     - OK
 
-## Step #5: 
-1. 
+## Step #5: Load Pres2016.xlsx File
+1. Explore the pres2016.xlsx table using Excel. 
+2. Click Data Source on the bottom left of the screen
+3. Click the blue Add button and click Microsoft Excel
+4. Select the pres2016.xlsx file
+5. Drag *presidential* to the window next to *demographics*. This should automatically connect to the *demographics* table and the Edit Relationship window will appear.
+6. The default Cntyvtd will connect to the Cntyvtd1 column.
+7. Close the Edit Relationship window and click Sheet 1. Now both tables are available.
+
+## Step #6: View % Votes for Trump in 2016 by County
+1. Drag Trump to the Color box
+2. Aggregation fix is necessary again!
+
+## Step #7: Load VTD Shapefile
+1. Click Data Source on the bottom left of the screen
+2. Click the blue Add button and click Spatial file
+3. 
