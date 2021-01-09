@@ -1,4 +1,4 @@
-# Webinar-Mapping-2016-Presidential-Election
+# Webinar: Hands-On Tableau Desktop: Mapping the 2016 Presidential Election
 
 **Date/Time**: January 12, 11am
 
