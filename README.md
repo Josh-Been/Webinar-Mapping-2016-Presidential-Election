@@ -1,5 +1,3 @@
-## Webinar: Hands-On Tableau Desktop: Mapping the 2016 Presidential Election
-
 ### Webinar Description
 
 **Date/Time**: January 12, 11am
@@ -20,3 +18,12 @@
 1. [Tableau Desktop Public](https://public.tableau.com/en-us/s/)
 2. [Tableau Desktop Professional (student license)](https://www.tableau.com/academic/students)
 3. [Tableau Desktop Professional (teacher license)](https://www.tableau.com/academic/teaching)
+
+### Webinar Data
+
+1. [Zip Archive of All Files](https://baylor0-my.sharepoint.com/:u:/g/personal/joshua_been_baylor_edu/ESl_zYE_vJVLghLNpaZOAdMBRsvNRz3vkNyj3hn7Ugv3hA?download=1)
+ - Data from Texas Legislative Council
+   - [Texas Voter Tabulation District (VTD) Shapefile](https://data.capitol.texas.gov/dataset/vtds)
+   - [2016 General Election Data](https://data.capitol.texas.gov/dataset/2016_general)
+ - Data from U.S. Census
+   - [Census American Community Survey](https://data.census.gov/cedsci/) - This Census data included in the *zip archive* has been pre-processed. Data was downloaded for Census Block Groups and approximated to VTD polygons using an area-weighted spatial join approach using ArcGIS.
