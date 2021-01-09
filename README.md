@@ -42,52 +42,54 @@
 2. Unzip the contents [help unzipping](https://www.wikihow.com/Unzip-a-File)
 3. Explore (preview) the demographics.xlsx file using Excel.
 
-## Step #2: Load demographics.xlsx File into Tableau Desktop
-1. Launch Tableau (*can be either Tableau Public or Professional*)
-2. Click *Connect/To a File/Microsoft Excel* and browse to the demographics.xlsx file.
-3. Click the orange Sheet 1 button
+## Step #2: Visualize Census Data
 
-## Step #3: Create Treemap Visualization Showing Income by County
-1.	Select County under Dimensions
-2.	Hold CTRL and select Income under Measures
-3.	Under Show Me on the right, click TreeMap
-4. This is not correct, is it? Let's correct the aggregation.
+1. Load demographics.xlsx File into Tableau Desktop
+ - Launch Tableau (*can be either Tableau Public or Professional*)
+ - Click *Connect/To a File/Microsoft Excel* and browse to the demographics.xlsx file.
+ - Click the orange Sheet 1 button
+2. Create Treemap Visualization Showing Income by County
+ - Select County under Dimensions
+ - Hold CTRL and select Income under Measures
+ - Under Show Me on the right, click TreeMap
+ - This is not correct, is it? Let's correct the aggregation.
     - Click the Undo button at the top left of the screen
     - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
     - Now recreate Treemap
-
-## Step #4: Change Visualizations
-1. Packed Bubbles
+3. Change Visualizations
+ - Packed Bubbles
     - Click the Packed Bubbles button on the Show Me tab
     - Drag Income under Measures to the Color box
     - Click the Color box and then click Edit Colors to adjust the color scheme.
-2. County Map (*finally, right?*)
+ - County Map (*finally, right?*)
     - Change visualization to Map
     - Click the Map button on the Show Me tab
     - Click the 99 Unknown tag that appears on the bottom right of the map
     - Under State/Province, select Fixed and then Texas.
     - OK
 
-## Step #5: Load Pres2016.xlsx File
-1. Explore the pres2016.xlsx table using Excel. 
-2. Click Data Source on the bottom left of the screen
-3. Click the blue Add button and click Microsoft Excel
-4. Select the pres2016.xlsx file
-5. Drag *presidential* to the window next to *demographics*. This should automatically connect to the *demographics* table and the Edit Relationship window will appear.
-6. The default Cntyvtd will connect to the Cntyvtd1 column.
-7. Close the Edit Relationship window and click Sheet 1. Now both tables are available.
+## Step #3: Integrate Election Data
 
-## Step #6: View % Votes for Trump in 2016 by County
-1. Drag Trump to the Color box
-2. Aggregation fix is necessary again!
+1. Load Pres2016.xlsx File
+ - Explore the pres2016.xlsx table using Excel. 
+ - Click Data Source on the bottom left of the screen
+ - Click the blue Add button and click Microsoft Excel
+ - Select the pres2016.xlsx file
+ - Drag *presidential* to the window next to *demographics*. This should automatically connect to the *demographics* table and the Edit Relationship window will appear.
+ - The default Cntyvtd will connect to the Cntyvtd1 column.
+ - Close the Edit Relationship window and click Sheet 1. Now both tables are available.
+2. Step #6: View % Votes for Trump in 2016 by County
+ - Drag Trump to the Color box
+ - Aggregation fix is necessary again!
 
-## Step #7: Load VTD Shapefile
-1. Click Data Source on the bottom left of the screen
-2. Click the blue Add button and click Spatial file
-3. Browse and select the VTDs.shp shapefile
-4. Drag *VTDs* to the window next to *demographics*.
-5. The default relationship is perfect
-6. Back to Sheet 1
+## Step #4: Integrate VTD Boundaries
 
-## Step #8: Map Data Using VTD Boundaries
-1. 
+1. Load VTds.shp Shapefile
+ - Click Data Source on the bottom left of the screen
+ - Click the blue Add button and click Spatial file
+ - Browse and select the VTDs.shp shapefile
+ - Drag *VTDs* to the window next to *demographics*.
+ - The default relationship is perfect
+ - Back to Sheet 1
+2. Map Data Using VTD Boundaries
+ - sfdsdfsd
