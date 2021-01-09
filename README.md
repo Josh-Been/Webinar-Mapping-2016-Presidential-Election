@@ -44,4 +44,5 @@
 
 **Load demographics.xlsx File into Tableau**
 1. Launch Tableau (*can be either Tableau Public or Professional*)
-2. 
+2. Click *Connect/To a File/Microsoft Excel* and browse to the demographics.xlsx file.
+3. Click the 
