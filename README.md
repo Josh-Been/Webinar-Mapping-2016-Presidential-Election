@@ -21,9 +21,12 @@
 
 ### Webinar Data
 
-1. [Zip Archive of All Files](https://baylor0-my.sharepoint.com/:u:/g/personal/joshua_been_baylor_edu/ESl_zYE_vJVLghLNpaZOAdMBRsvNRz3vkNyj3hn7Ugv3hA?download=1)
- - Data from Texas Legislative Council
-   - [Texas Voter Tabulation District (VTD) Shapefile](https://data.capitol.texas.gov/dataset/vtds)
-   - [2016 General Election Data](https://data.capitol.texas.gov/dataset/2016_general)
- - Data from U.S. Census
-   - [Census American Community Survey](https://data.census.gov/cedsci/) - This Census data included in the *zip archive* has been pre-processed. Data was downloaded for Census Block Groups and approximated to VTD polygons using an area-weighted spatial join approach using ArcGIS.
+[Zip Archive of All 3 Files](https://baylor0-my.sharepoint.com/:u:/g/personal/joshua_been_baylor_edu/ESl_zYE_vJVLghLNpaZOAdMBRsvNRz3vkNyj3hn7Ugv3hA?download=1)
+
+*Data from Texas Legislative Council*
+1. [Texas Voter Tabulation District (VTD) Shapefile](https://data.capitol.texas.gov/dataset/vtds)
+2. [2016 General Election Data](https://data.capitol.texas.gov/dataset/2016_general) - The election data included in the *zip archive* has been pre-processed. The complete 2016 election data was filtered and pivoted for Presidential votes and then percent votes were calculated for each candidate.
+
+*Data from U.S. Census*
+
+3. [Census American Community Survey](https://data.census.gov/cedsci/) - This Census data included in the *zip archive* has been pre-processed. Data was downloaded for Census Block Groups and approximated to VTD polygons using an area-weighted spatial join approach using ArcGIS.
