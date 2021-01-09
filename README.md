@@ -60,15 +60,20 @@
  - Click the Packed Bubbles button on the Show Me tab
  - Drag Income under Measures to the Color box
  - Click the Color box and then click Edit Colors to adjust the color scheme.
-4. Change Visualization to Hilight Table
+4. Change Visualization to Highlight Table
  - Steps Here
-5. Change Visualization to County Map (*finally, right?*)
+5. Rename and Duplicate Sheet 1
+ - Right-click *Sheet 1* and select *Rename*
+ - Raname to Highlight Table
+ - Right-click *Highlight Table* and select *Duplicate*
+ - Rename the new sheet County Map
+6. Change Visualization to County Map (*finally, right?*)
  - Change visualization to Map
  - Click the Map button on the Show Me tab
  - Click the 99 Unknown tag that appears on the bottom right of the map
  - Under State/Province, select Fixed and then Texas.
  - OK
-6. To change the map colors, drag another field to the Color Box
+7. To change the map colors, drag another field to the Color Box
 
 ## Step #3: Integrate Election Data
 
