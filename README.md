@@ -53,14 +53,14 @@
  - Hold CTRL and select Income under Measures
  - Under Show Me on the right, click TreeMap
  - This is not correct, is it? Let's correct the aggregation.
-    - Click the Undo button at the top left of the screen
-    - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
-    - Now recreate Treemap
+      - Click the Undo button at the top left of the screen
+      - Right-click Income, under Measures, and select Deafult Properties/Aggregation/Average
+      - Now recreate Treemap
 3. Change Visualizations
  - Packed Bubbles
-      - Click the Packed Bubbles button on the Show Me tab
-      - Drag Income under Measures to the Color box
-      - Click the Color box and then click Edit Colors to adjust the color scheme.
+   - Click the Packed Bubbles button on the Show Me tab
+   - Drag Income under Measures to the Color box
+   - Click the Color box and then click Edit Colors to adjust the color scheme.
  - County Map (*finally, right?*)
     - Change visualization to Map
     - Click the Map button on the Show Me tab
