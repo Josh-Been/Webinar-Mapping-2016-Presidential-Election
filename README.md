@@ -37,12 +37,12 @@
 
 ### Webinar Steps
 
-**3 Prepared Datasets**
+#### Explore 3 Prepared Datasets
 1. Download [Zip Archive of All 3 Files](https://baylor0-my.sharepoint.com/:u:/g/personal/joshua_been_baylor_edu/ESl_zYE_vJVLghLNpaZOAdMBRsvNRz3vkNyj3hn7Ugv3hA?download=1)
 2. Unzip the contents [help unzipping](https://www.wikihow.com/Unzip-a-File)
 3. Explore (preview) the demographics.xlsx file using Excel.
 
-**Load demographics.xlsx File into Tableau**
+#### Load demographics.xlsx File into Tableau Desktop
 1. Launch Tableau (*can be either Tableau Public or Professional*)
 2. Click *Connect/To a File/Microsoft Excel* and browse to the demographics.xlsx file.
 3. Click the 
