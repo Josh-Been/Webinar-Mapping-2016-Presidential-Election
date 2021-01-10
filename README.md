@@ -132,9 +132,9 @@
  - Name the Calculated Field Variable Placeholder
  - Formula:
       <blockquote>
-      IF [Choose Variable]="Income" THEN [Income]      
-      ELSEIF [Choose Variable]="% Clinton" THEN [Clinton]      
-      ELSEIF [Choose Variable]="% Trump" THEN [Trump]      
+      IF [Choose Variable]="Income" THEN [Income]<br>
+      ELSEIF [Choose Variable]="% Clinton" THEN [Clinton]<br>
+      ELSEIF [Choose Variable]="% Trump" THEN [Trump]<br>
       END
       </blockquote>
 3. dfdfdf
