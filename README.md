@@ -11,6 +11,7 @@
 **Description**: Participants of this introductory webinar will gain hands-on experience generating interactive maps and map-centric dashboards using Tableau Desktop. The content we will focus on during this webinar will be 2016 Presidential election results by voter tabulation district in Texas and Census data from the American Community Survey. (Unfortunately, it is too early to obtain 2020 results by VTD. Stayed tuned for future mapping workshops when 2020 data is released.)
  - Click to Explore Finished Product
  - <a href="https://public.tableau.com/views/TDLGISIGDashboard-Mapping2016Election/Dashboard1?:embed=y&:display_count=no&:showVizHome=no#1" target="_blank"><img src="https://i.ibb.co/PNnncYT/tdlgispreview.png" width=500></a>
+  - [Download TWBX](https://github.com/Josh-Been/Webinar-Mapping-2016-Presidential-Election-Using-Tableau-Desktop/blob/main/TDL%20GISIG%20Dashboard%20-%20Mapping%202016%20Election.twbx) - Requires Tableau Professional to Use (*not Tableau Public*)
 
 **Participation**: Participants can follow along or sit back and watch. To follow along, please install Tableau Desktop prior to the webinar starting.
 
