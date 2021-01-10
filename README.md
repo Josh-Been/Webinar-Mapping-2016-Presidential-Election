@@ -131,7 +131,7 @@
 2. Create a new *Calculated Field* to hold values of selection
  - Name the Calculated Field Variable Placeholder
  - Formula:
- 
+      <blockquote>
       IF [Choose Variable]="Income" THEN [Income]
       
       ELSEIF [Choose Variable]="% Clinton" THEN [Clinton]
@@ -139,7 +139,7 @@
       ELSEIF [Choose Variable]="% Trump" THEN [Trump]
       
       END
-      
+      </blockquote>
 3. dfdfdf
 
 ## Step #6: Create & Publish Dashboard
