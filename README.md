@@ -139,7 +139,22 @@
       </blockquote>
 3. Drag Variable Placeholder to the Color Box
 4. Nice, huh?
+5. Navigate to the *Highlight Table* sheet
+ - Set default aggregation for *Variable Placeholder* to Average
+ - Drag *Value Placeholder* to the Color Box
+5. Navigate to the *County Map*
+ - Drag *Value Placeholder* to the Color Box
 
 ## Step #6: Create & Publish Dashboard
-1. Click the *New Dashboard* icon
-2. 
+1. Set the Page Size
+ - Click the *New Dashboard* icon
+ - Under *Size* click the size suggested
+ - Change *Fixed* to *Automatic*
+2. Drag Sheets to arrange as you see fit
+3. On the Filter and Parameter, set them as 
+4. **Publish Steps - If Using Tableau Professional**
+ - CLick Data/demographics/Extract Data
+ - Click Extract
+ - Click Server/Tableau Public/Save to Tableau Public
+5. **Publish Steps - If Using Tableau Public**
+ - Click File/Save to Tableau Pubic
