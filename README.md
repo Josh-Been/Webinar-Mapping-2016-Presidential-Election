@@ -133,8 +133,11 @@
  - Formula:
  
       IF [Choose Variable]="Income" THEN [Income]
+      
       ELSEIF [Choose Variable]="% Clinton" THEN [Clinton]
+      
       ELSEIF [Choose Variable]="% Trump" THEN [Trump]
+      
       END
       
 3. dfdfdf
