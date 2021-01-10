@@ -94,7 +94,7 @@
  - The default Cntyvtd will connect to the Cntyvtd1 column.
  - Click the *County Map* tab
  - Now both tables are available.
-2. Step #6: View % Votes for Trump in 2016 by County
+2. View % Votes for Trump in 2016 by County
  - Aggregation fix is necessary again!
  - Drag *Trump* to Color Box.
 
@@ -129,7 +129,7 @@
  - OK
  - From the new *Parameters* list on the bottom left, right-click Choose Variable and click *Show Parameter*
 2. Create a new *Calculated Field* to hold values of selection
- - Name the Calculated Field Variable Placeholder
+ - Name the Calculated Field *Variable Placeholder*
  - Formula:
       <blockquote>
       IF [Choose Variable]="Income" THEN [Income]<br>
@@ -137,6 +137,9 @@
       ELSEIF [Choose Variable]="% Trump" THEN [Trump]<br>
       END
       </blockquote>
-3. dfdfdf
+3. Drag Variable Placeholder to the Color Box
+4. Nice, huh?
 
 ## Step #6: Create & Publish Dashboard
+1. Click the *New Dashboard* icon
+2. 
