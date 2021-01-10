@@ -152,7 +152,7 @@
  - Under *Size* click the size suggested
  - Change *Fixed* to *Automatic*
 2. Drag Sheets to arrange as you see fit
-3. On the Filter and Parameter, set them as 
+3. Set the *County* filter to Apply to Worksheets/All
 4. **Publish Steps - If Using Tableau Professional**
  - CLick Data/demographics/Extract Data
  - Click Extract
