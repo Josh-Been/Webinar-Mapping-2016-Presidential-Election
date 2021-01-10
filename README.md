@@ -74,6 +74,7 @@
  - Under State/Province, select Fixed and then Texas.
  - OK
 7. To change the map colors, drag another field to the Color Box
+8. MAP OPTIONS EXPLORE HERE
 
 ## Step #3: Integrate Election Data
 
