@@ -103,6 +103,8 @@
  - In the Table of Contents on the left, double-click *Geometry* under VTDs.
  - Drag CNTYVTD to the Detail Box
  - Show % Votes for Clinton to the Color Box
+4. Add Filters
+ - STEPS TO ADD FILTERS FOR COUNTY, CLINTON VOTES
 
 ## OPTIONAL Step #5: Dynamic Dropdown to Adjust Color
 
