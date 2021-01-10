@@ -97,8 +97,13 @@
  - Browse and select the VTDs.shp shapefile
  - Drag *VTDs* to the window next to *demographics*.
  - The default relationship is perfect
- - Back to Sheet 1
-2. Map Data Using VTD Boundaries
+2. Create a New Sheet
+ - Rename the New Sheet *VTD Map*
+3. Map Data Using VTD Boundaries
  - In the Table of Contents on the left, double-click *Geometry* under VTDs.
  - Drag CNTYVTD to the Detail Box
  - Show % Votes for Clinton to the Color Box
+
+## OPTIONAL Step #5: Dynamic Dropdown to Adjust Color
+
+## Step #6: Create & Publish Dashboard
