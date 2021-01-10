@@ -131,6 +131,7 @@
 2. Create a new *Calculated Field* to hold values of selection
  - Name the Calculated Field Variable Placeholder
  - Formula:
+ 
     IF [Choose Variable]="Income" THEN [Income]
     ELSEIF [Choose Variable]="% Clinton" THEN [Clinton]
     ELSEIF [Choose Variable]="% Trump" THEN [Trump]
