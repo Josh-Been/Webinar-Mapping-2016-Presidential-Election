@@ -16,8 +16,8 @@
 **Participation**: Participants can follow along or sit back and watch. To follow along, please install Tableau Desktop prior to the webinar starting.
 
 **Presenters**:
- - [Joshua Been, Baylor University](https://www.baylor.edu/library/index.php?id=969726)
- - [Kristina Claunch, Sam Houston State University](https://shsulibraryguides.org/prf.php?account_id=249033)
+ - Leading - [Joshua Been, Baylor University](https://www.baylor.edu/library/index.php?id=969726)
+ - Assisting - [Kristina Claunch, Sam Houston State University](https://shsulibraryguides.org/prf.php?account_id=249033)
 
 # Tableau Software
 
@@ -28,7 +28,8 @@
 
 # Webinar Data
 
-[Zip Archive of All 3 Files](https://baylor0-my.sharepoint.com/:u:/g/personal/joshua_been_baylor_edu/ESl_zYE_vJVLghLNpaZOAdMBRsvNRz3vkNyj3hn7Ugv3hA?download=1)
+[Zip Archive of All 3 Files](https://github.com/Josh-Been/Webinar-Mapping-2016-Presidential-Election-Using-Tableau-Desktop/raw/main/Files/Tableau-I-Data.zip)
+ - [Backup on Baylor's OneDrive](https://baylor0-my.sharepoint.com/:u:/g/personal/joshua_been_baylor_edu/ESl_zYE_vJVLghLNpaZOAdMBRsvNRz3vkNyj3hn7Ugv3hA?download=1)
 
 *Data from Texas Legislative Council*
 1. [Texas Voter Tabulation District (VTD) Shapefile](https://data.capitol.texas.gov/dataset/vtds)
