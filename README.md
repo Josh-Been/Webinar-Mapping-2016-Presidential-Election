@@ -37,7 +37,7 @@
 
 *Data from U.S. Census*
 
-3. [Census American Community Survey](https://www.census.gov/programs-surveys/acs/data.html) - This Census data included in the *zip archive* has been pre-processed. Data was downloaded for Census Block Groups and approximated to VTD polygons using an area-weighted spatial join approach using ArcGIS.
+3. [Census American Community Survey (2012-2016 5 year)](https://www.census.gov/programs-surveys/acs/data.html) - This Census data included in the *zip archive* has been pre-processed. Data was downloaded for Census Block Groups and approximated to VTD polygons using an area-weighted spatial join approach using ArcGIS.
 
 # Webinar Steps
 
